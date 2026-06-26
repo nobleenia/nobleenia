@@ -114,8 +114,8 @@ Whenever I can, I try to actually *build* the idea behind the research rather th
 </p>
 
 **Backend** — GraphQL · REST APIs · Node.js · FastAPI · Django  
-**Frontend** — React · HTML · CSS · JavaScript  
-**Data** — Pandas · NumPy · Jupyter · SQL  
+**Frontend** — React · HTML · CSS · JavaScript · Typescript  
+**Data** — Pandas · NumPy · Jupyter · SQL · scikit-learn · gurobi  
 **Engineering** — Git · Docker · Linux · SAP  
 
 ---
