@@ -113,10 +113,10 @@ Whenever I can, I try to actually *build* the idea behind the research rather th
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-**Backend** — GraphQL · REST APIs · Node.js · FastAPI · Django
-**Frontend** — React · HTML · CSS · JavaScript
-**Data** — Pandas · NumPy · Jupyter · SQL
-**Engineering** — Git · Docker · Linux · SAP
+**Backend** — GraphQL · REST APIs · Node.js · FastAPI · Django  
+**Frontend** — React · HTML · CSS · JavaScript  
+**Data** — Pandas · NumPy · Jupyter · SQL  
+**Engineering** — Git · Docker · Linux · SAP  
 
 ---
 
